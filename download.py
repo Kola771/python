@@ -54,6 +54,6 @@ def telecharger_et_extraire_zip(url):
         return
 
 # Exemple d'utilisation :
-url_fichier_zip = 'file:///C:/Users/kolade.aboudou/Desktop/cours%20python/test/resultats.zip'
+url_fichier_zip = 'file:///C:/Users/kolade.aboudou/Desktop/cours_python/test/resultats.zip'
 
 telecharger_et_extraire_zip(url_fichier_zip)
